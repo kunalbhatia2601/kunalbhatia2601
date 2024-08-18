@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Tech Enthusiast.<br>⚡ CSE - Second Year Student At Chitkara University<br>💬 Ask me about Exciting projects to work on.<br>📫 How to reach me: https://KunalBhatia.me<br>😄 Pronouns: He/His
+🏗️Building Drishtii - Insights into Academic Excellence.<br>🔭 Tech Enthusiast.<br>⚡ CSE - Second Year Student At Chitkara University<br>💬 Ask me about Exciting projects to work on.<br>📫 How to reach me: https://KunalBhatia.me<br>😄 Pronouns: He/His
 
 
 ## 🌐 Socials:
