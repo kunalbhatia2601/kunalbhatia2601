@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏗️ Building DRISHTII, Code Radar<br>🔭 Tech Enthusiast.<br>⚡ CSE - 2nd Year Student At Chitkara University<br>💬 Ask me about Exciting projects to work on.<br>📫 How to reach me: https://KunalBhatia.me<br>😄 Pronouns: He/His
+🏗️ Building DRISHTII, Code Radar.<br>🔭 Tech Enthusiast.<br>⚡ CSE - 2nd Year Student At Chitkara University.<br>💬 Ask me about Exciting projects to work on.<br>📫 Reach me at : <a href="mailto:mails.kunalbhatia@gmail.com">Mails.KunalBhatia@gmail.com</a>.<br>😄 Pronouns: He/His
 
 
 ## 🌐 Socials:
