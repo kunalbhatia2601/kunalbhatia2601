@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏗️ Building <a href="https://codeflixlabs.com">CodeFlixLabs</a>.<br>🔭 Tech Enthusiast.<br>⚡ CSE - 2nd Year Student At Chitkara University.<br>💬 Ask me about Exciting projects to work on.<br>📫 Reach me at : <a href="mailto:Kunal@CodeFlixLabs.com">Kunal@CodeFlixLabs.com</a>.<br>😄 Pronouns: He/His
+🏗️ Building <a target="_blank" href="https://codeflixlabs.com">CodeFlixLabs</a>.<br>🔭 Tech Enthusiast.<br>⚡ CSE - 2nd Year Student At Chitkara University.<br>💬 Ask me about Exciting projects to work on.<br>📫 Reach me at : <a target="_blank" href="mailto:Kunal@CodeFlixLabs.com">Kunal@CodeFlixLabs.com</a>.<br>😄 Pronouns: He/His
 
 
 ## 🌐 Socials:
