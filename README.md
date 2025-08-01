@@ -7,7 +7,7 @@
 
 - 🧱 Currently building [**CodeFlixLabs**](https://codeflixlabs.com)
 - 🔭 Passionate about building real-world projects & solving practical problems  
-- 👨‍💻 I'm a 2nd Year Computer Science Student at Chitkara University  
+- 👨‍💻 I'm a 3rd Year Computer Science Student at Chitkara University  
 - 💬 Ask me about **exciting side-projects, startup ideas, or tech stacks**
 - 📫 Reach me at: [Kunal@CodeFlixLabs.com](mailto:Kunal@CodeFlixLabs.com)
 - 😄 Pronouns: He/Him
