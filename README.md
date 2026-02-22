@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kunal Bhatia</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://kunalbhatia.in" target="_blank">Kunal Bhatia</a></h1>
 <h3 align="center">Founder @ <a href="https://codeflixlabs.com" target="_blank">CodeFlixLabs</a> | Tech Enthusiast | CSE Undergrad</h3>
 
 ---
@@ -9,7 +9,7 @@
 - 🔭 Passionate about building real-world projects & solving practical problems  
 - 👨‍💻 I'm a 3rd Year Computer Science Student at Chitkara University  
 - 💬 Ask me about **exciting side-projects, startup ideas, or tech stacks**
-- 📫 Reach me at: [Kunal@CodeFlixLabs.com](mailto:Kunal@CodeFlixLabs.com)
+- 📫 Reach me at: [Mails.KunalBhatia@gmail.com](mailto:mails.kunalbhatia@gmail.com)
 - 😄 Pronouns: He/Him
 
 ---
